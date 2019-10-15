@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main() {
     int a[50],i,s,p,num;
-    printf("Enter size\n");
+    printf("ENTER size\n");
     scanf("%d",&s);
     printf("Enter numbers\n");
     for(i=0;i<s;i++){
