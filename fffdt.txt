@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+  int a,b;
+  printf("enter the two nos");
+  scanf("%d%d",&a,&b);
+  sum=a+b;
+  printf("sum of the two nos: %d",sum);
+}
