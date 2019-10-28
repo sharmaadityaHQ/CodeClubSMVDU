@@ -6,7 +6,7 @@ printf("enter any value of a");
 scanf("%d",&a);
 for(i=1;i<=a;i++)
 {
-fact=fact*i;
+factorial=factorial*i;
 printf("the value of factorial is %d\n",fact);
 }
 return 0;
